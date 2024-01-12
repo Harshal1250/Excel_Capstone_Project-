@@ -1,7 +1,2 @@
 # Excel_Capstone_Project-
-Created an Excel spreadsheet to catalog items with specialized formatting
-Used Excel functions for data analysis and improved inventory management efficiency
-Applied visual enhancements to enhance the spreadsheet's visual appeal
-Formatted header row with suitable color and alignment
-Generated a 'Category' column to categorize startups
-Highlighted series D funding entries with distinct colors
+Crafted a comprehensive Excel-based data analysis project for Indian startups, featuring specialized formatting and efficient inventory management. Utilized Excel functions to conduct in-depth data analysis, offering valuable insights for strategic decision-making. The project showcases visual enhancements such as a color-formatted header row and a 'Category' column for startups. Noteworthy is the distinct color highlighting of series D funding entries, providing a focused view for critical analysis. Leveraging pivot tables, the project delivers detailed insights into startup dynamics, aiding stakeholders in making informed decisions.
